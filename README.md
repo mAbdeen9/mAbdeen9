@@ -1,7 +1,7 @@
 <h4 align="start">Hi 👋, I'm Mohamed Abdeen</h4>
 <h5>Full-Stack developer</h5>
 
-- 👨‍💻 Portfolio => <a href="[[url](https://mabdeen.com/)](https://mabdeen.com/)">mabdeen.com</a>
+- 👨‍💻 Portfolio => <p><a href="https://www.mabdeen.com/">Visit Mabdeen.com!</a></p>
 - 💬 Ask me about **MERN STACK 🔥**
 - 📫 How to reach me **m7md.ab911@gmail.com**
 
